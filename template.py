@@ -32,6 +32,7 @@ list_of_files =  [
     "setup.py",
     "config/model.yaml",
     "config/schema.yaml",
+    "test.py"
 
 ]
 print("test")
@@ -44,4 +45,4 @@ for filepath in list_of_files:
         with open(filepath,"w") as f:
             pass
     else:
-        print(f"fiel is already present at :{filepath}")        
+        print(f"file is already present at :{filepath}")        
