@@ -23,3 +23,18 @@ Close and reopen Git Bash.
 Activate your Conda environment by running the following command:
 Code
 conda activate <environment_name>
+
+workflow 
+
+1.constants 
+2.config_entity 
+3.artifact entity 
+4.component  data engestion 
+5.Pipeline 
+6.app.py 
+
+export MONGODB_URL="mongodb+srv://<username>:<password>...."
+
+export AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID>
+
+export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
